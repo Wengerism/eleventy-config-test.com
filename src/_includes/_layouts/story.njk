@@ -1,0 +1,41 @@
+
+{% extends "page-template.njk" %}
+
+{% block content %}
+
+   
+
+<div class="page-container">
+
+  <div class="page-image">
+
+    <div class="page-headings">
+      <p>{{ chapter }}</p>
+      <p>{{ title }}</p>
+    </div>
+  </div>
+ 
+    <div class="text">
+    
+        {{ content | safe }}
+    </div>
+
+    <div class="page-navigation">
+      
+      <div class="previous-chapter">
+        <a href="{{ prevChapterLink }}">
+					<p>{{ previousChapter }}<p>
+				</a>
+      </div>
+      <div class="next-chapter">
+        <a href="{{ chapterLink }}">
+					<p>{{ nextChapter }}<p>
+				</a>
+      </div>
+    </div>
+      
+
+</div>
+
+{% endblock content %}
+

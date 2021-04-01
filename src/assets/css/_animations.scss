@@ -1,0 +1,58 @@
+.landing-container {
+	animation: landing-page-load 2800ms ease-in-out;
+}
+
+// .landing-container-subhead {
+// 	animation: landing-page-load2 1800ms ease-in-out;
+// }
+
+// .about-container-subhead2 {
+// 	animation: landing-page-load2 1000ms ease-in-out;
+// }
+
+// .about-container-subhead3 {
+// 	animation: landing-page-load2 3000ms ease-in-out;
+// }
+
+// .landing-container-concept {
+// 	animation: landing-page-load2 6800ms ease;
+// }
+
+@keyframes landing-page-load {
+	0% {
+		// transform: translateY(40px);
+		opacity: 0;
+	}
+	100% {
+		// transform: translateY(0px);
+		opacity: 1;
+	}
+}
+
+// .fade-in {
+// 	opacity: 0;
+// 	transition: opacity 1800ms ease-in, transform 2600ms ease;
+// 	transform: translateY(40px);
+// }
+
+.fade-in {
+	opacity: 0;
+	transition: opacity 1000ms ease-in;
+	// transform: translateY(40px);
+}
+
+.fade-in-about-page {
+	opacity: 0;
+	transition: opacity 3000ms ease-in;
+	transform: translateY(40px);
+}
+
+.fade-in.appear {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.fade-in-about-page.appear {
+	opacity: 1;
+	transform: translateY(0);
+}

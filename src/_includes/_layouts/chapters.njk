@@ -1,0 +1,43 @@
+
+{% extends "page-template.njk" %}
+
+	{% block content %}
+
+
+
+ <div class="chapter-container">
+  
+    <div class="heading">
+      {{ title }}
+    </div>
+  
+    <ul class="chapter-list">
+      <li class="chapters"><a href="/introduction">{{ introduction }}</a></li>
+      
+      <li class="chapters"><a href="/chapter1">{{ chapter1 }}</a></li>
+  
+      <li class="chapters"><a href="/chapter2">{{ chapter2 }}</a></li>
+
+      <li class="chapters"><a href="/chapter3">{{ chapter3 }}</a></li>
+ 
+      <li class="chapters"><a href="/chapter4">{{ chapter4 }}</a></li>
+ 
+      <li class="chapters"><a href="/chapter5">{{ chapter5 }}</a></li>
+
+      <li class="chapters"><a href="/chapter6">{{ chapter6 }}</a></li>
+ 
+      <li class="chapters"><a href="/chapter7">{{ chapter7 }}</a></li>
+ 
+      <li class="chapters"><a href="/chapter8">{{ chapter8 }}</a></li>
+  </ul>
+
+</div>
+	
+{{ content | safe }}
+
+	</div>
+</div>
+
+
+
+{% endblock content %}

@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500&family=Hind:wght@300;400;500&family=Lexend:wght@100;300;400&family=Mulish:wght@200;300;400&family=Nunito+Sans:wght@200;300;400&family=Roboto:wght@100;300;400&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Pontano+Sans&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,900;1,100&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500&family=Hind:wght@300;400;500&family=Lexend:wght@100;300;400&family=Mulish:wght@200;300;400&family=Nunito+Sans:wght@200;300;400&family=Open+Sans:wght@300;400;600&family=Roboto:wght@100;300;400&display=swap");
+
+$greyaawards: #f3f3f3;
+$primary: #41526b;
+$greyblue: #29313f;
+$lightgreyblue: #414d63;
+$darkergreyblue: #252d3a;
+$darker: #2d3644;
+$highlight: #dddddd;
+$body: #fff;
+$text: #5d5f5f;
+$lightertext: #4c4e4e;
+$evenLighterText: #585a5a;
+$lightgrey: #c0c5c5;
+$grey: #a4a8a8;
+$lighter: #f2f7f7;
+$footer: #384250;
+$metallic: #1e1e1f;
+$orange: #eb8220;
+$turquoise: #2ddce9;
+$rusty: #7c2424;
+$rustier: #4e1c1c;
+
+html {
+	font-family: "Roboto", sans-serif;
+	font-family: "Open Sans", sans-serif;
+	// font-family: "Open Sans", sans-serif;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 100;
+	background: #fff;
+	color: $primary;
+	color: $text;
+	font-weight: 200;
+	font-size: 2rem;
+}

@@ -1,0 +1,61 @@
+.hero {
+	background-image: linear-gradient(
+			rgb(000, 000, 000, 0),
+			rgba(000, 000, 000, 0.7)
+		),
+		url("../images/fergus&nici.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-position: top;
+	overflow-x: hidden;
+}
+
+.hero-inner {
+	height: 90vh;
+}
+
+.main-heading {
+	padding-top: 15vh;
+	grid-column: 1 / span 1;
+	text-align: center;
+	// padding-top: 60vh;
+
+	font-size: 4.5rem;
+	font-weight: 300;
+	font-family: "Roboto", sans-serif;
+	letter-spacing: 20px;
+	line-height: 0%;
+	color: orangered;
+	// color: #2f3855;
+	// font-family: 'Pontano Sans', sans-serif;
+
+	p:nth-child(2) {
+		font-size: 0.7rem;
+		text-transform: uppercase;
+		letter-spacing: 19px;
+		color: $grey;
+		color: #fff;
+		font-weight: 200;
+		// position: absolute;
+	}
+}
+
+ul li {
+	margin-left: 20vw;
+}
+
+.copyright {
+	font-size: 0.5rem;
+
+	color: #909394;
+	color: Red;
+	// color: black;
+	text-align: center;
+	font-weight: 400;
+	letter-spacing: 2px;
+	// position: absolute;
+	// bottom: 10px;
+	// right: 15%;
+	// left: 15%;
+}

@@ -4,9 +4,9 @@
 	font-weight: 300;
 	font-size: 3rem;
 	height: 100vh;
-	display: grid;
-	justify-content: center;
-	align-content: center;
+	// display: grid;
+	// justify-content: center;
+	// align-content: center;
 	margin: 0;
 	padding: 0;
 	// font-family: "Roboto", sans-serif;
@@ -22,7 +22,7 @@
 		text-decoration: none;
 		color: #000;
 	}
-	padding-right: 20vw;
+	// padding-right: 20vw;
 }
 
 .heading {
@@ -82,6 +82,7 @@ $darker: #2d3644;
 		font-weight: 400;
 		letter-spacing: 12px;
 		color: grey;
+		color: orangered;
 	}
 }
 
@@ -99,6 +100,7 @@ $darker: #2d3644;
 	margin-top: 5rem;
 	display: flex;
 	justify-content: space-between;
+
 	.next-chapter,
 	.previous-chapter {
 		cursor: pointer;
@@ -114,6 +116,11 @@ $darker: #2d3644;
 	}
 }
 
-// .next-chapter {
-// 	float: right;
-// }
+.menu-title {
+	font-size: 1.1rem;
+	text-align: left;
+	margin-left: 1rem;
+	// padding-bottom: 1rem;
+	padding-top: 2.5rem;
+	// margin-left: 2.2rem;
+}

@@ -31,7 +31,7 @@ img {
   padding-top: 15vh;
   grid-column: 1/span 1;
   text-align: center;
-  font-size: 4.5rem;
+  font-size: 3.5rem;
   font-weight: 300;
   font-family: "Roboto", sans-serif;
   letter-spacing: 20px;
@@ -39,7 +39,7 @@ img {
   color: orangered;
 }
 .main-heading p:nth-child(2) {
-  font-size: 0.7rem;
+  font-size: 0.5rem;
   text-transform: uppercase;
   letter-spacing: 19px;
   color: #a4a8a8;
@@ -93,21 +93,26 @@ ul {
 
 .nav-links {
   padding-top: 1.5rem;
+  padding: 0;
+  margin-left: 1rem;
+  line-height: 200%;
+  font-size: 0.8rem;
 }
 
 .nav-list {
+  margin-top: 7px;
   position: fixed;
   top: 0;
   left: 0;
   height: 100vh;
   background-color: #fff;
   background-color: #29313f;
-  width: 100vw;
+  width: 40vw;
   display: flex;
   flex-direction: column;
   line-height: 20px;
   align-self: flex-start;
-  transform: translateY(-100%);
+  transform: translateX(-100%);
   transition: transform 0.95s ease-in-out;
   z-index: 8;
 }
@@ -155,7 +160,7 @@ ul {
 }
 
 .burger div {
-  width: 40px;
+  width: 35px;
   height: 2px;
   background-color: grey;
   margin: 5px;
@@ -170,6 +175,10 @@ nav {
 ul {
   padding: 0;
   margin: 0;
+}
+
+.contents {
+  font-size: 3rem;
 }
 
 .landing-container {
@@ -211,9 +220,6 @@ ul {
   font-weight: 300;
   font-size: 3rem;
   height: 100vh;
-  display: grid;
-  justify-content: center;
-  align-content: center;
   margin: 0;
   padding: 0;
 }
@@ -222,7 +228,6 @@ ul {
   list-style: none;
   line-height: 160%;
   font-size: 1.8rem;
-  padding-right: 20vw;
 }
 .chapter-list a {
   text-decoration: none;
@@ -257,6 +262,7 @@ ul {
   font-weight: 400;
   letter-spacing: 12px;
   color: grey;
+  color: orangered;
 }
 
 .text {
@@ -285,6 +291,13 @@ ul {
   font-size: 0.6rem;
   font-weight: 400;
   letter-spacing: 6px;
+}
+
+.menu-title {
+  font-size: 1.1rem;
+  text-align: left;
+  margin-left: 1rem;
+  padding-top: 2.5rem;
 }
 
 .copyright {
@@ -313,9 +326,6 @@ html {
   font-weight: 300;
   font-size: 3rem;
   height: 100vh;
-  display: grid;
-  justify-content: center;
-  align-content: center;
   margin: 0;
   padding: 0;
 }
@@ -324,7 +334,6 @@ html {
   list-style: none;
   line-height: 160%;
   font-size: 1.8rem;
-  padding-right: 20vw;
 }
 .chapter-list a {
   text-decoration: none;
@@ -359,6 +368,7 @@ html {
   font-weight: 400;
   letter-spacing: 12px;
   color: grey;
+  color: orangered;
 }
 
 .text {
@@ -389,6 +399,13 @@ html {
   letter-spacing: 6px;
 }
 
+.menu-title {
+  font-size: 1.1rem;
+  text-align: left;
+  margin-left: 1rem;
+  padding-top: 2.5rem;
+}
+
 @media screen and (max-width: 700px) {
   .nav-links {
     font-size: 0.6rem;
@@ -396,12 +413,10 @@ html {
   }
 
   .menu-title {
-    font-size: 1rem;
+    font-size: 1.1rem;
+    text-align: left;
+    margin-left: 1rem;
     padding-top: 2.5rem;
-  }
-
-  .page-container {
-    border: solid turquoise 5px;
   }
 
   .page-headings {
@@ -415,5 +430,26 @@ html {
   .page-navigation .next-chapter a,
 .page-navigation .previous-chapter a {
     font-size: 0.4rem;
+  }
+
+  .main-heading {
+    font-size: 2.5rem;
+  }
+  .main-heading p:nth-child(2) {
+    font-size: 0.4rem;
+  }
+
+  .nav-list {
+    width: 60vw;
+  }
+}
+@media screen and (min-width: 701px) {
+  .hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url("../images/fergus&nici.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: top;
+    overflow-x: hidden;
   }
 }

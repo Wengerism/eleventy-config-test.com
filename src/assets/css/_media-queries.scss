@@ -9,4 +9,24 @@
 		padding-top: 2.5rem;
 		// margin-left: 2.2rem;
 	}
+	.page-container {
+		border: solid turquoise 5px;
+	}
+
+	.page-headings {
+		font-size: 1.5rem;
+		p:first-child {
+			text-transform: uppercase;
+			font-size: 0.5rem;
+		}
+	}
+
+	.page-navigation {
+		.next-chapter,
+		.previous-chapter {
+			a {
+				font-size: 0.4rem;
+			}
+		}
+	}
 }

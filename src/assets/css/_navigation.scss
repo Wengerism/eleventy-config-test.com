@@ -65,12 +65,13 @@ ul {
 	padding-top: 1.5rem;
 	padding: 0;
 	margin-left: 1rem;
-	line-height: 140%;
-	font-size: 0.8rem;
+	line-height: 180%;
+	font-size: 0.6rem;
+	padding-top: 0.5rem;
 }
 
 .nav-list {
-	margin-top: 7px;
+	// margin-top: 7px;
 	// padding-bottom: 5vh;
 	position: fixed;
 	top: 0;
@@ -78,10 +79,9 @@ ul {
 	height: 100vh;
 	background-color: #fff;
 	background-color: $menu;
-	width: 40vw;
+	width: 60vw;
 	display: flex;
 	flex-direction: column;
-	line-height: 20px;
 	align-self: flex-start;
 
 	// justify-content: center;

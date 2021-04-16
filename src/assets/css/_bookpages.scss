@@ -49,12 +49,12 @@ $darker: #2d3644;
 
 .page-container {
 	padding: 2rem 1rem;
-	border: solid grey 1px;
+	// border: solid grey 1px;
 	// margin: 4rem;
-	background: rgb(250, 250, 252);
+	// background: rgb(250, 250, 252);
 	// background: $text;
-	background: $metallic;
-	background: $darker;
+	// background: $metallic;
+	// background: $darker;
 }
 
 // .page-image {
@@ -73,9 +73,10 @@ $darker: #2d3644;
 
 .page-headings {
 	color: text;
-	color: $lightgrey;
-	font-size: 3rem;
+	color: $menu;
+	font-size: 1.5rem;
 	text-align: center;
+	margin-top: 9vh;
 	p:first-child {
 		text-transform: uppercase;
 		font-size: 0.7rem;
@@ -109,7 +110,7 @@ $darker: #2d3644;
 			color: grey;
 
 			text-transform: uppercase;
-			font-size: 0.6rem;
+			font-size: 0.4rem;
 			font-weight: 400;
 			letter-spacing: 6px;
 		}
@@ -122,6 +123,6 @@ $darker: #2d3644;
 	margin-left: 1rem;
 	// padding-bottom: 1rem;
 	padding-top: 2.5rem;
-	color: #c2bebe;
+	color: #d1cdcd;
 	// margin-left: 2.2rem;
 }

@@ -14,7 +14,7 @@
 
 	.page-headings {
 		font-size: 1.5rem;
-		color: #fff;
+
 		p:first-child {
 			text-transform: uppercase;
 			font-size: 0.5rem;
@@ -43,17 +43,30 @@
 	}
 }
 
-@media screen and (min-width: 701px) {
-	// .hero {
-	// 	background-image: linear-gradient(
-	// 			rgb(000, 000, 000, 0),
-	// 			rgba(000, 000, 000, 0.7)
-	// 		),
-	// 		url("../images/fergus&nici.jpg");
-	// 	background-size: contain;
-	// 	background-repeat: no-repeat;
-	// 	height: 100vh;
-	// 	background-position: top;
-	// 	overflow-x: hidden;
-	// }
+@media screen and (min-width: 900px) {
+	.nav-list {
+		width: 50vw;
+	}
+	.menu-title,
+	.nav-links {
+		margin-left: 2rem;
+	}
+	.page-container {
+		padding: 2rem 2rem;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.nav-list {
+		width: 40vw;
+	}
+	.page-container {
+		padding: 2rem 20vw;
+	}
+}
+
+@media screen and (min-width: 1400px) {
+	.nav-list {
+		width: 30vw;
+	}
 }

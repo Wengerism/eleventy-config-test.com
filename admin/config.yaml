@@ -1,0 +1,17 @@
+backend:
+ name: git-gateway
+
+collections:
+ - name: "pages"
+   label: "Pages"
+   folder: "_pages"
+   create: true
+   slug: "{{ slug }}"
+   fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Chapter", name: "chapter", widget: "string"}
+    - {label: "Page Content", name: "body", widget: "markdown"}
+    - {label: "hidden field", name: "nextChapter", widget: "hidden"}
+    - {label: "hidden link field", name: "chapterLink", widget: "hidden"}
+
+media_folder: "src/images"

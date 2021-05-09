@@ -1,36 +1,12 @@
 ---
 chapter: "Chapter Two"
-title: "Whatever"
-nextChapter: "Next chapter"
+title: "Fergus"
+nextChapter: "Chapter Three"
 chapterLink: "/chapter3"
 previousChapter: "Prev Chapter"
 prevChapterLink: "/chapter1"
 ---
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi eius exercitationem quisquam aliquid tenetur repudiandae quos necessitatibus quibusdam.
+This will be about finding out the sex, and how Fergus as a name came into the running.
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi eius exercitationem quisquam aliquid tenetur repudiandae quos necessitatibus quibusdam.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi eius exercitationem quisquam aliquid tenetur repudiandae quos necessitatibus quibusdam.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi eius exercitationem quisquam aliquid tenetur repudiandae quos necessitatibus quibusdam.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi eius exercitationem quisquam aliquid tenetur repudiandae quos necessitatibus quibusdam.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi eius exercitationem quisquam aliquid tenetur repudiandae quos necessitatibus quibusdam.
-
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea quidem, reiciendis distinctio porro voluptas dolorum placeat ab voluptatem neque pariatur modi.
+Although if you have time, and let's just say you won't tonight, you should have a chapter on finding out Nici was pregnant, that you didn't even suspect and only had thoughts for well being, and that Fergus had technically shared her first proper guinness from the guinness factory, which is why he's such a grounded kid.

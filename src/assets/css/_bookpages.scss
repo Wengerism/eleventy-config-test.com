@@ -57,19 +57,14 @@ $darker: #2d3644;
 	// background: $darker;
 }
 
-// .page-image {
-// 	background-image: linear-gradient(
-// 			rgb(000, 000, 000, 0),
-// 			rgba(000, 000, 000, 0.7)
-// 		),
-// 		url("../images/fergus.jpg");
-// 	background-size: cover;
-// 	background-repeat: no-repeat;
-// 	height: 40vh;
-// 	background-position: center;
-// 	overflow-x: hidden;
-// 	// background-attachment: fixed;
-// }
+.image {
+	background-size: contain;
+	height: 100%;
+	background-position: center;
+	overflow-x: hidden;
+	width: 100%;
+	padding-top: 1rem;
+}
 
 .page-headings {
 	color: text;

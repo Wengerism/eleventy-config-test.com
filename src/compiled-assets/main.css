@@ -241,6 +241,15 @@ ul {
   padding: 2rem 1rem;
 }
 
+.image {
+  background-size: contain;
+  height: 100%;
+  background-position: center;
+  overflow-x: hidden;
+  width: 100%;
+  padding-top: 1rem;
+}
+
 .page-headings {
   color: text;
   color: #242323;
@@ -313,6 +322,11 @@ html {
   font-size: 2rem;
 }
 
+.dedication {
+  text-align: center;
+  padding: 8vw;
+}
+
 .chapter-container {
   background: grey;
   color: #000;
@@ -343,6 +357,15 @@ html {
 
 .page-container {
   padding: 2rem 1rem;
+}
+
+.image {
+  background-size: contain;
+  height: 100%;
+  background-position: center;
+  overflow-x: hidden;
+  width: 100%;
+  padding-top: 1rem;
 }
 
 .page-headings {

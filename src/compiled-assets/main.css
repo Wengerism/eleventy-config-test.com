@@ -68,7 +68,6 @@ ul {
   letter-spacing: 1.5px;
   box-sizing: border-box;
   text-transform: uppercase;
-  padding-top: 2rem;
 }
 
 .nav-links {
@@ -298,7 +297,6 @@ ul {
   font-size: 1.1rem;
   text-align: left;
   margin-left: 1rem;
-  padding-top: 2.5rem;
   color: #d1cdcd;
 }
 
@@ -317,7 +315,7 @@ html {
   font-weight: 100;
   background: #fff;
   color: #41526b;
-  color: #5d5f5f;
+  color: #2d3644;
   font-weight: 200;
   font-size: 2rem;
 }
@@ -416,7 +414,6 @@ html {
   font-size: 1.1rem;
   text-align: left;
   margin-left: 1rem;
-  padding-top: 2.5rem;
   color: #d1cdcd;
 }
 
@@ -430,7 +427,6 @@ html {
     font-size: 1.1rem;
     text-align: left;
     margin-left: 1rem;
-    padding-top: 2.5rem;
   }
 
   .page-headings {

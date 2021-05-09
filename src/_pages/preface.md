@@ -1,7 +1,5 @@
 ---
 title: "Preface"
-previousChapter: "Prev Chapter"
-prevChapterLink: "/chapter7"
 pageImage: "../../images/desk.jpg"
 nextChapter: "Chapter One"
 chapterLink: "/chapter1"

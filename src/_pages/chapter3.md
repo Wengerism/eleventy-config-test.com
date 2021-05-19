@@ -9,15 +9,17 @@ prevChapterLink: "/chapter2"
 
 Pregnancy feels like a marathon.
 
-I just said for that for a joke by the way.  I know, I'm male, what the fuck would I know about it?  What I mean to say is the anticipation that is waiting for 9 months to elapse, as a partner, feels like a marathon - it seems like there's just so many kms ahead, so you knuckle down, distract yourself, tick time off gradually, before it suddenly dawns on you that the finish line is just around the corner.
+I just said for that for a joke by the way.  I know, I'm male, what would I know about it?  What I mean to say is the anticipation that is waiting for 9 months to elapse, as a partner, feels like a marathon: it seems like there's just so many kms ahead. So you knuckle down, distract yourself, tick time off gradually, before it suddenly dawns on you that the finish line is just around the corner.
 
 Except the finish line is really just the beginning.
 
 I've never run a marathon by the way, but that's how I'd approach it. Except the finish would be the finish.  I digress.
 
-Expecting.  At first you're excited, then slightly terrified, and then you settle for something closely approximating the middle: excited and slightly terrified.  At first it seemed like April 2020 was something approximating a year away.  Then as the months trickled past, it was more like 6 months.  Then xmas creeps into view, you catch up with family, and the next thing you know your sister is passing you a suitcase full of baby clothes while demonstrating how to operate a breast pump.
+Expecting.
 
-Thankfully there was ample booze at hand.  I'd originally thought I'd abstain from drinking during Nici's pregnancy as a sign of support.  As it happened, it appeared more appropriate to drink 'for' her.  I've always been a big fan of vicarious reinforcement, and I was with her every step of the way.
+At first you're excited, then slightly terrified, and then you settle for something closely approximating the middle: excited and slightly terrified.  At first it seemed like April 2020 was something approximating a year away.  Then as the months trickled past, it was more like 6 months.  Then xmas crept into view, we caught up with family, and the next thing I knew my sister was passing me a suitcase full of baby clothes while demonstrating how to operate a breast pump.
+
+Thankfully there was ample booze at hand to compensate.  I'd originally thought I'd abstain from drinking during Nici's pregnancy as a sign of support.As it happened, it appeared more appropriate to drink 'for' her.  I've always been a big fan of vicarious reinforcement, and I was with her every step of the way.
 
 With 3 sisters, all of whom are mothers, there was no shortage of advice on hand when the subject of childbirth inevitably arose.  Rois had a mantra: small head, big fanny.  And no, I'm not making this up.  Fanny?  You couldn't make that up. Needless to say it was a girly group discussion at the local spa resort - a location my sisters usually reserved for sharing birth stories over bubbles after each sister had their first child.
 

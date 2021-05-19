@@ -2,6 +2,7 @@ $greyblue: #29313f;
 $darker: #2d3644;
 $text: #5d5f5f;
 $menu: #242323;
+$lighter: #f2f7f7;
 
 ul {
 	margin: 0;
@@ -46,7 +47,7 @@ ul {
 
 .nav-links {
 	a {
-		color: grey;
+		color: $lighter;
 		// color: orange;
 		// color: #000;
 		font-weight: 200;
@@ -184,4 +185,5 @@ ul {
 
 .contents {
 	font-size: 3rem;
+	color: orangered;
 }

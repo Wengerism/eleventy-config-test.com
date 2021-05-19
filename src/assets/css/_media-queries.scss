@@ -12,12 +12,18 @@
 		// margin-left: 2.2rem;
 	}
 
+	.page-container {
+		padding-left: 0.5rem;
+		padding-right: 0.5rem;
+	}
+
 	.text {
 		text-align: left;
 	}
 
 	.page-headings {
 		font-size: 1.5rem;
+		margin-top: 0;
 
 		p:first-child {
 			text-transform: uppercase;
@@ -35,10 +41,12 @@
 	}
 
 	.main-heading {
-		font-size: 2.5rem;
+		font-size: 2rem;
 		p:nth-child(2) {
-			font-size: 0.4rem;
+			font-size: 0.3rem;
 			letter-spacing: 15px;
+			color: #fff;
+			font-weight: 300;
 		}
 	}
 

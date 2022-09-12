@@ -9,6 +9,8 @@ prevChapterLink: "/chapter2"
 
 Pregnancy feels like a marathon.
 
+AND THIS IS AN EDIT!
+
 I just said for that for a joke by the way.  I know, I'm male, what would I know about it?  What I mean to say is the anticipation that is waiting for 9 months to elapse, as a partner, feels like a marathon: it seems like there's just so many kms ahead. So you knuckle down, distract yourself, tick time off gradually, before it suddenly dawns on you that the finish line is just around the corner.
 
 Except the finish line is really just the beginning.
